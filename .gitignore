@@ -36,4 +36,5 @@ $RECYCLE.BIN/
 
 ### Output files ###
 
-/output
+*.jpg
+*.zip
